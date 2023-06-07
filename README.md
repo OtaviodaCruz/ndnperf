@@ -11,3 +11,10 @@ NDNperf features many options regarding the signing process because we identifie
 
 You can find a study on server performance using ndnperf on a paper named "Server-side performance evaluation of NDN" and published in the ACM ICN 2016 conference.
 
+## Replicarion
+
+Works with:
+- ndn-cxx v. 0.6.1
+- NFD v. 0.6.1
+- ndnPerf v. 0.6.0
+
