@@ -14,11 +14,13 @@ You can find a study on server performance using ndnperf on a paper named "Serve
 ## Replicarion tests
 
 Commit 01515019266583cc7bc2e31d6fc1842bab908422:
+
 Works with:
 - ndn-cxx v. 0.6.1
 - NFD v. 0.6.1
 
 Commit 2dd0ae3dc694b54cb2a9b46a46fbd86d7e734f68:
+
 Works with:
 - ndn-cxx v. 0.7.1
 - NFD v. 0.7.1
